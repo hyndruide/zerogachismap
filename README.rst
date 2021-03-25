@@ -6,6 +6,18 @@
 
 Install
 =======
+clone de Repo
+.. code-block:: bash
+    git clone https://github.com/hyndruide/zerogachismap.git
+
+Create a virtual environement
+.. code-block:: bash
+    cd zerogachismap
+    python -m venv .
+    // on linux
+    source .venv/bin/activate
+    // on windows
+    .\venv\Scripts\Activate.ps1
 
 Install Django dependencies:
 
@@ -18,6 +30,12 @@ Initialize database tables:
 .. code-block:: bash
 
     python manage.py migrate
+
+Populate the database:
+
+.. code-block:: bash
+
+    python manage.py loaddata data.json
 
 Create a super-user for the admin:
 
