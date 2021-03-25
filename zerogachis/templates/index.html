@@ -1,0 +1,93 @@
+{% load leaflet_tags %}
+<html>
+
+<head>
+    {% leaflet_js plugins="markercluster" %} {% leaflet_css plugins="markercluster" %}
+    <style>
+        .leaflet-container {
+            height: 100%;
+        }
+    </style>
+    <script>
+        var parturl = '{% url "partenaire" %}';
+        window.addEventListener("map:init", function(event) {
+            var map = event.detail.map;
+            // Download GeoJSON data with Ajax
+            var markers = new L.MarkerClusterGroup();
+            fetch(parturl)
+                .then(function(resp) {
+                    return resp.json();
+                })
+                .then(function(data) {
+                    var marker = L.geoJson(data, {
+                        onEachFeature: function onEachFeature(feature, layer) {
+                            var props = feature.properties;
+                            console.log(props)
+                            var content =
+                                `<img width="300" src="${props.picture}"/><h3>${props.title}</h3><p>${props.description}</p>`;
+                            layer.bindPopup(content);
+                        },
+                        pointToLayer: function(feature, latlng) {
+                            var props = feature.properties;
+                            var mark = L.marker(latlng, {
+                                icon: L.icon({
+                                    iconUrl: props.picture,
+                                    iconSize: [45, 75],
+                                    iconAnchor: [22, 75],
+                                    popupAnchor: [0, -6]
+                                })
+                            });
+                            return mark;
+                        },
+                    });
+                    markers.addLayer(marker);
+                    map.addLayer(markers);
+                });
+
+            var nonparturl = '{% url "non_partenaire" %}';
+            fetch(nonparturl)
+                .then(function(resp) {
+                    return resp.json();
+                })
+                .then(function(data) {
+                    var Nonpartmarkers = L.geoJson(data, {
+                        onEachFeature: function onEachFeature(feature, layer) {
+                            var props = feature.properties;
+                            console.log(props)
+                            var content =
+                                `<img width="300" src="${props.picture}"/><h3>${props.title}</h3><p>${props.description}</p>`;
+                            layer.bindPopup(content);
+                        },
+                        pointToLayer: function(feature, latlng) {
+                            var props = feature.properties;
+                            var mark = L.marker(latlng, {
+                                icon: L.icon({
+                                    iconUrl: props.picture,
+                                    iconSize: [21, 23],
+                                    iconAnchor: [0, 12],
+                                    popupAnchor: [0, -6]
+                                })
+                            });
+                            return mark;
+                        },
+                    });
+                    map.on('zoom', function() {
+                        if (map.getZoom() >= 14) {
+                            map.addLayer(Nonpartmarkers);
+                        } else {
+                            map.removeLayer(Nonpartmarkers);
+                        }
+                    });
+                });
+
+
+        });
+    </script>
+</head>
+
+<body>
+    <h1>Mushrooms Spots</h1>
+    {% leaflet_map "main" %}
+</body>
+
+</html>

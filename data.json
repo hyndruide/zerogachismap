@@ -1,0 +1,4915 @@
+[
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39936",
+        "fields": {
+            "title": "intermarche express",
+            "description": "nantes 39936",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.54021,
+                    47.208367
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "14631",
+        "fields": {
+            "title": "intermarche super",
+            "description": "reze 14631",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.533628,
+                    47.179417
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "14238",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "reze 14238",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.574446,
+                    47.193183
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "18298",
+        "fields": {
+            "title": "u express",
+            "description": "nantes 18298",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.561437,
+                    47.215895
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "37558",
+        "fields": {
+            "title": "super u",
+            "description": "saint-sebastien-sur-loire 37558",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.509751,
+                    47.208094
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "4241",
+        "fields": {
+            "title": "intermarche express",
+            "description": "nantes 4241",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.551003,
+                    47.224268
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "18125",
+        "fields": {
+            "title": "intermarche express",
+            "description": "nantes 18125",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.554185,
+                    47.230332
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "32190",
+        "fields": {
+            "title": "super u",
+            "description": "vertou 32190",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.476502,
+                    47.17251
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "6816",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "basse-goulaine 6816",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.467297,
+                    47.187766
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39943",
+        "fields": {
+            "title": "eau vive",
+            "description": "orvault 39943",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/75/30/75304347059b5175214abd3ec370a9f5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.611643,
+                    47.249188
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "21837",
+        "fields": {
+            "title": "super u",
+            "description": "pont-saint-martin 21837",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.581237,
+                    47.130097
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "7282",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "orvault 7282",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.58922,
+                    47.262427
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "21970",
+        "fields": {
+            "title": "u express",
+            "description": "haute-goulaine 21970",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.431082,
+                    47.199708
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "6558",
+        "fields": {
+            "title": "super u",
+            "description": "thouare-sur-loire 6558",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.447771,
+                    47.263723
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "12795",
+        "fields": {
+            "title": "super u",
+            "description": "bouaye 12795",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.680157,
+                    47.142723
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "11954",
+        "fields": {
+            "title": "hyper u",
+            "description": "saint-philbert-de-grand-lieu 11954",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.643078,
+                    47.04606
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "15691",
+        "fields": {
+            "title": "hyper u",
+            "description": "vallet 15691",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.268824,
+                    47.168221
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "21959",
+        "fields": {
+            "title": "super u",
+            "description": "getigne 21959",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.260703,
+                    47.085027
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "35383",
+        "fields": {
+            "title": "intermarche super",
+            "description": "rocheserviere 35383",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.502278,
+                    46.941125
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "38004",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "montaigu 38004",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.304101,
+                    46.977361
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "38990",
+        "fields": {
+            "title": "super u",
+            "description": "ancenis 38990",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.183541,
+                    47.372184
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "30583",
+        "fields": {
+            "title": "hyper u",
+            "description": "blain 30583",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.746279,
+                    47.471532
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "22173",
+        "fields": {
+            "title": "super u",
+            "description": "paimboeuf 22173",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -2.017204,
+                    47.284142
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "28641",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "pornic 28641",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -2.12549,
+                    47.126009
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "10476",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "saint-brevin-les-pins 10476",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -2.15876,
+                    47.242867
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "26933",
+        "fields": {
+            "title": "super u",
+            "description": "montoir-de-bretagne 26933",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -2.15236,
+                    47.32609
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "16732",
+        "fields": {
+            "title": "intermarche super",
+            "description": "le may-sur-evre 16732",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -0.894549,
+                    47.143336
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "34309",
+        "fields": {
+            "title": "intermarche super",
+            "description": "chalonnes-sur-loire 34309",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -0.760632,
+                    47.346485
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "27453",
+        "fields": {
+            "title": "intermarche super",
+            "description": "rieux 27453",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -2.099912,
+                    47.630969
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "16665",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "guerande 16665",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -2.409868,
+                    47.328861
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39554",
+        "fields": {
+            "title": "intermarche super",
+            "description": "angers 39554",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -0.535187,
+                    47.455756
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "32737",
+        "fields": {
+            "title": "super u",
+            "description": "janze 32737",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.487296,
+                    47.957384
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "23296",
+        "fields": {
+            "title": "intermarche super",
+            "description": "la chataigneraie 23296",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -0.751456,
+                    46.648155
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "37434",
+        "fields": {
+            "title": "hyper u",
+            "description": "guichen 37434",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.793808,
+                    47.971982
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "29229",
+        "fields": {
+            "title": "intermarche super",
+            "description": "saint-fort 29229",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -0.707427,
+                    47.816105
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "1933",
+        "fields": {
+            "title": "intermarche super",
+            "description": "bruz 1933",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.760795,
+                    48.029191
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "21256",
+        "fields": {
+            "title": "intermarche super",
+            "description": "domloup 21256",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.526349,
+                    48.056197
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "21587",
+        "fields": {
+            "title": "intermarche hyper",
+            "description": "doue-la-fontaine 21587",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -0.264616,
+                    47.197262
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "24526",
+        "fields": {
+            "title": "intermarche super",
+            "description": "arzon 24526",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -2.895509,
+                    47.546032
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "20131",
+        "fields": {
+            "title": "super u",
+            "description": "melesse 20131",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.703246,
+                    48.215723
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "29893",
+        "fields": {
+            "title": "super u",
+            "description": "auray 29893",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -3.003956,
+                    47.665604
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39890",
+        "fields": {
+            "title": "u express",
+            "description": "saint-rogatien 39890",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.076134,
+                    46.149684
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "22633",
+        "fields": {
+            "title": "super u",
+            "description": "le palais 22633",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -3.173236,
+                    47.340626
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "4050",
+        "fields": {
+            "title": "intermarche super",
+            "description": "saint-maixent-lecole 4050",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -0.196037,
+                    46.417439
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "32790",
+        "fields": {
+            "title": "super u",
+            "description": "broons 32790",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -2.251017,
+                    48.316317
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "27278",
+        "fields": {
+            "title": "hyper u",
+            "description": "combourg 27278",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7463,
+                    48.413237
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "35172",
+        "fields": {
+            "title": "intermarche super",
+            "description": "beauvoir-sur-niort 35172",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -0.472884,
+                    46.184622
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "32861",
+        "fields": {
+            "title": "intermarche super",
+            "description": "plouhinec 32861",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -3.244421,
+                    47.695617
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "30833",
+        "fields": {
+            "title": "intermarche super",
+            "description": "loudeac 30833",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -2.760272,
+                    48.176947
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "31601",
+        "fields": {
+            "title": "intermarche contact",
+            "description": "saint-gervais-en-belin 31601",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    0.216619,
+                    47.875957
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "16189",
+        "fields": {
+            "title": "hyper u",
+            "description": "ecommoy 16189",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    0.260668,
+                    47.836198
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39934",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "pluduno 39934",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -2.249901,
+                    48.523611
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "15299",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "buxerolles 15299",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    0.351959,
+                    46.597054
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "11063",
+        "fields": {
+            "title": "super u",
+            "description": "guidel 11063",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -3.490281,
+                    47.785824
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39931",
+        "fields": {
+            "title": "intermarche hyper",
+            "description": "pleurtuit 39931",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -2.063488,
+                    48.611037
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "38041",
+        "fields": {
+            "title": "auchan",
+            "description": "38041",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    0.614998,
+                    47.344043
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "152",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "saint-malo 152",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.973183,
+                    48.658265
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "8396",
+        "fields": {
+            "title": "auchan",
+            "description": "8396",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    0.657774,
+                    47.425997
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "22661",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "plouguernevel 22661",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -3.295684,
+                    48.241831
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "33984",
+        "fields": {
+            "title": "super u",
+            "description": "saujon 33984",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -0.914177,
+                    45.679856
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "23477",
+        "fields": {
+            "title": "intermarche super",
+            "description": "rostrenen 23477",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -3.315071,
+                    48.243067
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "37784",
+        "fields": {
+            "title": "intermarche super",
+            "description": "nevez 37784",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -3.793759,
+                    47.824249
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "11293",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "flers 11293",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -0.562491,
+                    48.742323
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "1166",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "concarneau 1166",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -3.916519,
+                    47.888521
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "7002",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "pleuven 7002",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -4.029483,
+                    47.900369
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "30646",
+        "fields": {
+            "title": "intermarche super",
+            "description": "chateauneuf-du-faou 30646",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8266,
+                    48.182699
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "22320",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "chateauneuf-du-faou 22320",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -3.818768,
+                    48.195066
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "4581",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "argentan 4581",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -0.013583,
+                    48.753289
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "13087",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "pont-labbe 13087",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -4.236367,
+                    47.864832
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "25527",
+        "fields": {
+            "title": "intermarche super",
+            "description": "pluguffan 25527",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -4.183705,
+                    47.979186
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "32877",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "rivieres 32877",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    0.386195,
+                    45.752792
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "14800",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "chateaulin 14800",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -4.086463,
+                    48.200579
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "29314",
+        "fields": {
+            "title": "carrefour market",
+            "description": "hourtin 29314",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/eb/af/ebaffffff4b84cc61f5ad591fee63235.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.054527,
+                    45.186608
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "18697",
+        "fields": {
+            "title": "super u",
+            "description": "lanmeur 18697",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -3.721211,
+                    48.64214
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "36799",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "douarnenez 36799",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -4.345007,
+                    48.091331
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "35141",
+        "fields": {
+            "title": "intermarche super",
+            "description": "livarot 35141",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    0.153905,
+                    49.014498
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "34465",
+        "fields": {
+            "title": "intermarche super",
+            "description": "ouzouer-le-marche 34465",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.517551,
+                    47.908928
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "5",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "landerneau 5",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -4.264519,
+                    48.466413
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "29381",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "plougastel-daoulas 29381",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -4.346133,
+                    48.38359
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39871",
+        "fields": {
+            "title": "leclerc express",
+            "description": "saint-thonan 39871",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -4.322476,
+                    48.472608
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "33819",
+        "fields": {
+            "title": "super u",
+            "description": "eguzon-chantome 33819",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.581248,
+                    46.439506
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "27542",
+        "fields": {
+            "title": "super u",
+            "description": "guipavas 27542",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -4.410903,
+                    48.436511
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "34404",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "le folgoet 34404",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -4.340672,
+                    48.562252
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "2",
+        "fields": {
+            "title": "super u",
+            "description": "brest 2",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -4.495736,
+                    48.40603
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "2989",
+        "fields": {
+            "title": "intermarche super",
+            "description": "plabennec 2989",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -4.429684,
+                    48.492869
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "37400",
+        "fields": {
+            "title": "intermarche super",
+            "description": "riberac 37400",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    0.346901,
+                    45.237706
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "37383",
+        "fields": {
+            "title": "intermarche super",
+            "description": "coutras 37383",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -0.123564,
+                    45.049289
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "36540",
+        "fields": {
+            "title": "intermarche super",
+            "description": "panazol 36540",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.304798,
+                    45.83164
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "6273",
+        "fields": {
+            "title": "intermarche super",
+            "description": "cherbourg-octeville 6273",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.649709,
+                    49.637454
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "26396",
+        "fields": {
+            "title": "auchan",
+            "description": "26396",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.943861,
+                    47.905476
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "917",
+        "fields": {
+            "title": "intermarche super",
+            "description": "gradignan 917",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -0.644792,
+                    44.774372
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "35098",
+        "fields": {
+            "title": "intermarche super",
+            "description": "coulounieix-chamiers 35098",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    0.689301,
+                    45.171437
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "34912",
+        "fields": {
+            "title": "intermarche super",
+            "description": "la teste-de-buch 34912",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.146247,
+                    44.610715
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39922",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "pineuilh 39922",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    0.226851,
+                    44.824602
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "34100",
+        "fields": {
+            "title": "intermarche super",
+            "description": "sanguinet 34100",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.080372,
+                    44.481787
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "28589",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "biscarrosse 28589",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.169288,
+                    44.41003
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "28065",
+        "fields": {
+            "title": "intermarche hyper",
+            "description": "gif-sur-yvette 28065",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.104955,
+                    48.701084
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "38292",
+        "fields": {
+            "title": "auchan",
+            "description": "38292",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.162263,
+                    48.765832
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "27261",
+        "fields": {
+            "title": "auchan",
+            "description": "27261",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.172686,
+                    48.756054
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "23287",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "amilly 23287",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.730564,
+                    47.97655
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "9558",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "tulle 9558",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.7619,
+                    45.252164
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "36477",
+        "fields": {
+            "title": "intermarche super",
+            "description": "antony 36477",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.291905,
+                    48.75575
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "27987",
+        "fields": {
+            "title": "auchan",
+            "description": "27987",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.293487,
+                    48.778662
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39918",
+        "fields": {
+            "title": "intermarche express",
+            "description": "issy-les-moulineaux 39918",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.258967,
+                    48.824758
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "27075",
+        "fields": {
+            "title": "intermarche express",
+            "description": "issy-les-moulineaux 27075",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.267738,
+                    48.824381
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "22767",
+        "fields": {
+            "title": "auchan",
+            "description": "22767",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.297859,
+                    48.808821
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "36192",
+        "fields": {
+            "title": "intermarche super",
+            "description": "bourg-la-reine 36192",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.324306,
+                    48.780472
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "33120",
+        "fields": {
+            "title": "intermarche super",
+            "description": "corbeil-essonnes 33120",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.468759,
+                    48.607462
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "25074",
+        "fields": {
+            "title": "intermarche express",
+            "description": "montrouge 25074",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.30376,
+                    48.813653
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "28451",
+        "fields": {
+            "title": "auchan",
+            "description": "28451",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.315047,
+                    48.805259
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "27118",
+        "fields": {
+            "title": "intermarche super",
+            "description": "dordives 27118",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.77599,
+                    48.148629
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "22743",
+        "fields": {
+            "title": "intermarche super",
+            "description": "gentilly 22743",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.343961,
+                    48.809817
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "37353",
+        "fields": {
+            "title": "auchan",
+            "description": "13 37353",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.346772,
+                    48.825949
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39921",
+        "fields": {
+            "title": "intermarche express",
+            "description": "clichy 39921",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.305267,
+                    48.900947
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39974",
+        "fields": {
+            "title": "intermarche express",
+            "description": "clichy 39974",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.307944,
+                    48.898165
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "21178",
+        "fields": {
+            "title": "auchan",
+            "description": "12 21178",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.394687,
+                    48.839201
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "2614",
+        "fields": {
+            "title": "auchan",
+            "description": "12 2614",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.394381,
+                    48.841009
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "30316",
+        "fields": {
+            "title": "auchan",
+            "description": "20 30316",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.410485,
+                    48.848917
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "18405",
+        "fields": {
+            "title": "auchan",
+            "description": "19 18405",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.385739,
+                    48.878345
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39983",
+        "fields": {
+            "title": "auchan",
+            "description": "39983",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.460938,
+                    48.806863
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "555",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "epinay-sur-seine 555",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.333511,
+                    48.953649
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "38857",
+        "fields": {
+            "title": "intermarche super",
+            "description": "montmorency 38857",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.313271,
+                    49.009663
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "3388",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "chambly 3388",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.257851,
+                    49.156443
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "21055",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "gonesse 21055",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.432034,
+                    48.98999
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "6537",
+        "fields": {
+            "title": "intermarche super",
+            "description": "beaumont-sur-oise 6537",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.285762,
+                    49.142327
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "21596",
+        "fields": {
+            "title": "hyper u",
+            "description": "neuilly-sur-marne 21596",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.561134,
+                    48.865936
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "29214",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "coulanges-les-nevers 29214",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    3.177871,
+                    47.010291
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "26398",
+        "fields": {
+            "title": "intermarche super",
+            "description": "montayral 26398",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    0.969436,
+                    44.491248
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "20113",
+        "fields": {
+            "title": "super u",
+            "description": "roissy-en-brie 20113",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.655312,
+                    48.783307
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "25075",
+        "fields": {
+            "title": "intermarche super",
+            "description": "rouxmesnil-bouteilles 25075",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.09403,
+                    49.914335
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "22719",
+        "fields": {
+            "title": "super u",
+            "description": "noisiel 22719",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.623179,
+                    48.843155
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "35346",
+        "fields": {
+            "title": "intermarche contact",
+            "description": "puy-leveque 35346",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.1429,
+                    44.500867
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "25976",
+        "fields": {
+            "title": "intermarche super",
+            "description": "prayssac 25976",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.186438,
+                    44.501143
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "36730",
+        "fields": {
+            "title": "intermarche super",
+            "description": "marseille-en-beauvaisis 36730",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.95473,
+                    49.581148
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "18286",
+        "fields": {
+            "title": "intermarche super",
+            "description": "moussy-le-neuf 18286",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.596893,
+                    49.063329
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "32879",
+        "fields": {
+            "title": "intermarche super",
+            "description": "grandvilliers 32879",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.95165,
+                    49.66192
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "29347",
+        "fields": {
+            "title": "intermarche super",
+            "description": "gauville 29347",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.760055,
+                    49.78046
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "29393",
+        "fields": {
+            "title": "super u",
+            "description": "couilly-pont-aux-dames 29393",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.870307,
+                    48.872944
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "6121",
+        "fields": {
+            "title": "intermarche hyper",
+            "description": "joigny 6121",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    3.378843,
+                    47.979897
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "35050",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "decize 35050",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    3.470532,
+                    46.835051
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "23201",
+        "fields": {
+            "title": "intermarche super",
+            "description": "eu 23201",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.412451,
+                    50.058916
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "33070",
+        "fields": {
+            "title": "intermarche super",
+            "description": "saint-paul-les-dax 33070",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.073928,
+                    43.727754
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39338",
+        "fields": {
+            "title": "intermarche super",
+            "description": "condom 39338",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    0.378808,
+                    43.959885
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "28484",
+        "fields": {
+            "title": "intermarche super",
+            "description": "yzosse 28484",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.023424,
+                    43.706647
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "35605",
+        "fields": {
+            "title": "intermarche super",
+            "description": "dax 35605",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.050203,
+                    43.690924
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "28707",
+        "fields": {
+            "title": "intermarche super",
+            "description": "figeac 28707",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.013921,
+                    44.606227
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "26709",
+        "fields": {
+            "title": "intermarche super",
+            "description": "la ferte-gaucher 26709",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    3.308913,
+                    48.784191
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "14778",
+        "fields": {
+            "title": "super u",
+            "description": "flixecourt 14778",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.066159,
+                    50.027869
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "23255",
+        "fields": {
+            "title": "super u",
+            "description": "verdun-sur-garonne 23255",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.228511,
+                    43.853303
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "23896",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "aicirits-camou-suhast 23896",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.016514,
+                    43.332826
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39929",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "saint-georges 39929",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    3.1378,
+                    45.030922
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "11103",
+        "fields": {
+            "title": "intermarche super",
+            "description": "marconnelle 11103",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.023252,
+                    50.373421
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "6797",
+        "fields": {
+            "title": "intermarche super",
+            "description": "saint-paul-sur-save 6797",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.217111,
+                    43.699411
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "23316",
+        "fields": {
+            "title": "intermarche super",
+            "description": "riorges 23316",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.063771,
+                    46.054758
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "37586",
+        "fields": {
+            "title": "intermarche super",
+            "description": "le portel 37586",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.579596,
+                    50.70998
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "22443",
+        "fields": {
+            "title": "intermarche super",
+            "description": "carmaux 22443",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.159221,
+                    44.052357
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "37143",
+        "fields": {
+            "title": "super u",
+            "description": "venarey-les-laumes 37143",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.461039,
+                    47.541976
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "21166",
+        "fields": {
+            "title": "intermarche super",
+            "description": "cornebarrieu 21166",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.337129,
+                    43.649235
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "33541",
+        "fields": {
+            "title": "intermarche super",
+            "description": "castelginest 33541",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.447154,
+                    43.684885
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "27464",
+        "fields": {
+            "title": "intermarche hyper",
+            "description": "saint-pol-sur-ternoise 27464",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.349036,
+                    50.388725
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39299",
+        "fields": {
+            "title": "intermarche super",
+            "description": "boen 39299",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.010214,
+                    45.735025
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "1307",
+        "fields": {
+            "title": "super u",
+            "description": "leguevin 1307",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.263621,
+                    43.600913
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "29041",
+        "fields": {
+            "title": "intermarche super",
+            "description": "le creusot 29041",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.445611,
+                    46.793273
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "36305",
+        "fields": {
+            "title": "super u",
+            "description": "pouilly-en-auxois 36305",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.541334,
+                    47.271273
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "7524",
+        "fields": {
+            "title": "intermarche super",
+            "description": "plaisance-du-touch 7524",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.308854,
+                    43.569229
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39283",
+        "fields": {
+            "title": "intermarche super",
+            "description": "saint-lys 39283",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.189297,
+                    43.512861
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39083",
+        "fields": {
+            "title": "intermarche contact",
+            "description": "gouzeaucourt 39083",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    3.130438,
+                    50.056555
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39861",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "champfleury 39861",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.015353,
+                    49.20414
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "26799",
+        "fields": {
+            "title": "super u",
+            "description": "flourens 26799",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.578062,
+                    43.58817
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "38021",
+        "fields": {
+            "title": "super u",
+            "description": "sombernon 38021",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.710184,
+                    47.31182
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "25071",
+        "fields": {
+            "title": "intermarche super",
+            "description": "labarthe-sur-leze 25071",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.389266,
+                    43.465422
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "34887",
+        "fields": {
+            "title": "super u",
+            "description": "noe 34887",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.26486,
+                    43.345968
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "26895",
+        "fields": {
+            "title": "intermarche super",
+            "description": "mericourt 26895",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.872826,
+                    50.404133
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "31653",
+        "fields": {
+            "title": "super u",
+            "description": "martres-tolosane 31653",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.000754,
+                    43.19619
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "5362",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "vitry-le-francois 5362",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.600836,
+                    48.729445
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39968",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "cordovilla 39968",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -1.632779,
+                    42.783047
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "23988",
+        "fields": {
+            "title": "intermarche super",
+            "description": "macon 23988",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.808401,
+                    46.289152
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "3080",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "gleize 3080",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.7004,
+                    45.983082
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39305",
+        "fields": {
+            "title": "intermarche super",
+            "description": "mane 39305",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    0.95183,
+                    43.089239
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "30082",
+        "fields": {
+            "title": "intermarche super",
+            "description": "bourbourg 30082",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.198167,
+                    50.943456
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "36630",
+        "fields": {
+            "title": "intermarche super",
+            "description": "hoymille 36630",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.447977,
+                    50.97658
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "20715",
+        "fields": {
+            "title": "intermarche super",
+            "description": "beuvrages 20715",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    3.500229,
+                    50.381132
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "8915",
+        "fields": {
+            "title": "intermarche super",
+            "description": "coudekerque-branche 8915",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    2.402455,
+                    51.033251
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "25378",
+        "fields": {
+            "title": "intermarche super",
+            "description": "grigny 25378",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.781869,
+                    45.605613
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "29086",
+        "fields": {
+            "title": "intermarche super",
+            "description": "fourmies 29086",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.057528,
+                    50.015982
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "31503",
+        "fields": {
+            "title": "intermarche hyper",
+            "description": "pamiers 31503",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.631159,
+                    43.10591
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "34788",
+        "fields": {
+            "title": "intermarche super",
+            "description": "revigny-sur-ornain 34788",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.992439,
+                    48.824882
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "20681",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "chavanay 20681",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.74147,
+                    45.429223
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "30112",
+        "fields": {
+            "title": "intermarche contact",
+            "description": "glageon 30112",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.086598,
+                    50.058954
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "335",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "beynost 335",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.995518,
+                    45.826272
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "18119",
+        "fields": {
+            "title": "intermarche super",
+            "description": "chassieu 18119",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.957795,
+                    45.738432
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "3078",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "meyzieu 3078",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.988238,
+                    45.767018
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39386",
+        "fields": {
+            "title": "super u",
+            "description": "tavaux 39386",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.417601,
+                    47.042471
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "25981",
+        "fields": {
+            "title": "super u",
+            "description": "saint-amour 25981",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.343765,
+                    46.441376
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "31842",
+        "fields": {
+            "title": "intermarche super",
+            "description": "chanas 31842",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.80992,
+                    45.325403
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "37185",
+        "fields": {
+            "title": "super u",
+            "description": "cuiseaux 37185",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.38314,
+                    46.493141
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39895",
+        "fields": {
+            "title": "leader price",
+            "description": "boussu hornu 39895",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/9e/0f/9e0f1018f7a8f712b4d97372c89abf60.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    3.839679,
+                    50.440425
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "25430",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "saint-rambert-dalbon 25430",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.822075,
+                    45.27235
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "15896",
+        "fields": {
+            "title": "intermarche super",
+            "description": "villette-danthon 15896",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.131774,
+                    45.792694
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "1250",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "tignieu-jameyzieu 1250",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.180064,
+                    45.746286
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "12421",
+        "fields": {
+            "title": "intermarche super",
+            "description": "laroque-dolmes 12421",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.871903,
+                    42.984291
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "22624",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "saint-etienne-de-fontbellon 22624",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.381925,
+                    44.59881
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "36583",
+        "fields": {
+            "title": "intermarche hyper",
+            "description": "tain-lhermitage 36583",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.866461,
+                    45.068058
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "21976",
+        "fields": {
+            "title": "super u",
+            "description": "orgelet 21976",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.606654,
+                    46.527675
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39891",
+        "fields": {
+            "title": "leader price",
+            "description": "binche 39891",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/9e/0f/9e0f1018f7a8f712b4d97372c89abf60.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.200726,
+                    50.410008
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "23846",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "bourg-les-valence 23846",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.881706,
+                    44.958801
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39724",
+        "fields": {
+            "title": "intermarche hyper",
+            "description": "soyons 39724",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.862083,
+                    44.917364
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "1064",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "neufchateau 1064",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.705252,
+                    48.370028
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "34704",
+        "fields": {
+            "title": "intermarche super",
+            "description": "vireux-molhain 34704",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.723585,
+                    50.075072
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "30881",
+        "fields": {
+            "title": "intermarche hyper",
+            "description": "loriol-sur-drome 30881",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.837514,
+                    44.758566
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "32579",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "saint-paul-les-romans 32579",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.101444,
+                    45.057691
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39897",
+        "fields": {
+            "title": "leader price",
+            "description": "charleroi couillet 39897",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/9e/0f/9e0f1018f7a8f712b4d97372c89abf60.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.462992,
+                    50.386899
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39896",
+        "fields": {
+            "title": "leader price",
+            "description": "courcelles souvret 39896",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/9e/0f/9e0f1018f7a8f712b4d97372c89abf60.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.377612,
+                    50.463999
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39892",
+        "fields": {
+            "title": "leader price",
+            "description": "fleurus 39892",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/9e/0f/9e0f1018f7a8f712b4d97372c89abf60.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    4.528427,
+                    50.4576
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "32670",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "chatte 32670",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.304615,
+                    45.145726
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39940",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "andorra la vella 39940",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    1.532035,
+                    42.508726
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "3792",
+        "fields": {
+            "title": "intermarche super",
+            "description": "ecrouves 3792",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.872643,
+                    48.678522
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "37300",
+        "fields": {
+            "title": "super u",
+            "description": "saone 37300",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.102664,
+                    47.207707
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "26378",
+        "fields": {
+            "title": "intermarche hyper",
+            "description": "aouste-sur-sye 26378",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.034914,
+                    44.722619
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "33611",
+        "fields": {
+            "title": "super u",
+            "description": "ornans 33611",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.126798,
+                    47.107888
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "33802",
+        "fields": {
+            "title": "intermarche super",
+            "description": "gruissan 33802",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    3.111845,
+                    43.11823
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "12877",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "drumettaz-clarafond 12877",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.911696,
+                    45.654923
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "10453",
+        "fields": {
+            "title": "intermarche super",
+            "description": "pont-a-mousson 10453",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.058585,
+                    48.92093
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "26062",
+        "fields": {
+            "title": "intermarche super",
+            "description": "longwy 26062",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.750731,
+                    49.514942
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "38880",
+        "fields": {
+            "title": "intermarche super",
+            "description": "villersexel 38880",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.431283,
+                    47.544771
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "19733",
+        "fields": {
+            "title": "carrefour market",
+            "description": "annemasse 19733",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/eb/af/ebaffffff4b84cc61f5ad591fee63235.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.23678,
+                    46.181546
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "4422",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "saint-martin-dheres 4422",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.752673,
+                    45.168597
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "34440",
+        "fields": {
+            "title": "intermarche super",
+            "description": "aumetz 34440",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.950867,
+                    49.411797
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "35621",
+        "fields": {
+            "title": "intermarche super",
+            "description": "vetraz-monthoux 35621",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.275629,
+                    46.184265
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "22674",
+        "fields": {
+            "title": "intermarche super",
+            "description": "le touvet 22674",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.95746,
+                    45.359545
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "21701",
+        "fields": {
+            "title": "intermarche super",
+            "description": "montmelian 21701",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.067951,
+                    45.503061
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "25759",
+        "fields": {
+            "title": "intermarche super",
+            "description": "metz 25759",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.221706,
+                    49.120596
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "12066",
+        "fields": {
+            "title": "intermarche super",
+            "description": "thonon-les-bains 12066",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.497737,
+                    46.379434
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "5884",
+        "fields": {
+            "title": "intermarche super",
+            "description": "guenange 5884",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.211224,
+                    49.298326
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39872",
+        "fields": {
+            "title": "leader price",
+            "description": "huy tihange 39872",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/9e/0f/9e0f1018f7a8f712b4d97372c89abf60.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.263041,
+                    50.532491
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "23627",
+        "fields": {
+            "title": "intermarche super",
+            "description": "saint-jeoire 23627",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.462021,
+                    46.135129
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "8951",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "montbeliard 8951",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.810043,
+                    47.500547
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "32610",
+        "fields": {
+            "title": "super u",
+            "description": "taninges 32610",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.583579,
+                    46.108752
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39939",
+        "fields": {
+            "title": "super u",
+            "description": "magland 39939",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.610905,
+                    46.038357
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39963",
+        "fields": {
+            "title": "intermarche super",
+            "description": "orgon 39963",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.029372,
+                    43.791638
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39893",
+        "fields": {
+            "title": "leader price",
+            "description": "seraing 39893",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/9e/0f/9e0f1018f7a8f712b4d97372c89abf60.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.501339,
+                    50.596546
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39873",
+        "fields": {
+            "title": "leader price",
+            "description": "grace-hollogne 39873",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/9e/0f/9e0f1018f7a8f712b4d97372c89abf60.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.50974,
+                    50.64944
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "27437",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "masevaux 27437",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.001327,
+                    47.773995
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39894",
+        "fields": {
+            "title": "leader price",
+            "description": "herstal 39894",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/9e/0f/9e0f1018f7a8f712b4d97372c89abf60.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.617211,
+                    50.655698
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "33205",
+        "fields": {
+            "title": "intermarche super",
+            "description": "creutzwald 33205",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.706982,
+                    49.195847
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39962",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "aime 39962",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.663551,
+                    45.557393
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39942",
+        "fields": {
+            "title": "intermarche super",
+            "description": "tallard 39942",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.035099,
+                    44.466744
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "12158",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "sarrebourg 12158",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.044618,
+                    48.732446
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "35438",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "hirsingue 35438",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.259324,
+                    47.58652
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39285",
+        "fields": {
+            "title": "intermarche super",
+            "description": "phalsbourg 39285",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.25692,
+                    48.770496
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "33200",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "marmoutier 33200",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.37277,
+                    48.701413
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "38440",
+        "fields": {
+            "title": "intermarche super",
+            "description": "baratier 38440",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    6.481258,
+                    44.546908
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "32746",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "obernai 32746",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.495862,
+                    48.46886
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "27124",
+        "fields": {
+            "title": "leclerc express",
+            "description": "duttlenheim 27124",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.568126,
+                    48.52651
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "22378",
+        "fields": {
+            "title": "intermarche super",
+            "description": "oberhausbergen 22378",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.707285,
+                    48.604553
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "25581",
+        "fields": {
+            "title": "intermarche super",
+            "description": "carnoux-en-provence 25581",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    5.546465,
+                    43.250793
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "30935",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "strasbourg 30935",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.760516,
+                    48.573363
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "29540",
+        "fields": {
+            "title": "leclerc express",
+            "description": "strasbourg 29540",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.767388,
+                    48.545215
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "29695",
+        "fields": {
+            "title": "leclerc express",
+            "description": "reichstett 29695",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.752442,
+                    48.651326
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "22321",
+        "fields": {
+            "title": "super u",
+            "description": "woerth 22321",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/df/22/df22c22d66d7cb96ea8b5aab23e71da5.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.747341,
+                    48.933584
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "24503",
+        "fields": {
+            "title": "intermarche super",
+            "description": "haguenau 24503",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.793148,
+                    48.827312
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "14770",
+        "fields": {
+            "title": "leclerc express",
+            "description": "soultz-sous-forets 14770",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.897335,
+                    48.928251
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "21957",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "soufflenheim 21957",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.962652,
+                    48.819637
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "30133",
+        "fields": {
+            "title": "intermarche express",
+            "description": "cannes 30133",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.024534,
+                    43.556145
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "29321",
+        "fields": {
+            "title": "intermarche super",
+            "description": "saint-laurent-du-var 29321",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.183921,
+                    43.667321
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "37786",
+        "fields": {
+            "title": "intermarche super",
+            "description": "nice 37786",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.29026,
+                    43.71576
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "21924",
+        "fields": {
+            "title": "intermarche hyper",
+            "description": "menton 21924",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/cf/30/cf302691ffe486961058301e574caf49.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    7.487884,
+                    43.800163
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39984",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "caldas da rainha 39984",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -9.146655,
+                    39.402908
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39964",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "montijo 39964",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -8.960563,
+                    38.700868
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39995",
+        "fields": {
+            "title": "auchan",
+            "description": "76 39995",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    25.981196,
+                    44.440169
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39997",
+        "fields": {
+            "title": "auchan",
+            "description": "17 39997",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    26.040334,
+                    44.457792
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39992",
+        "fields": {
+            "title": "auchan",
+            "description": "66 39992",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    26.035838,
+                    44.416571
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39998",
+        "fields": {
+            "title": "auchan",
+            "description": "56 39998",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    26.050376,
+                    44.431095
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39994",
+        "fields": {
+            "title": "auchan",
+            "description": "80 39994",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    26.139602,
+                    44.407907
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39996",
+        "fields": {
+            "title": "auchan",
+            "description": "82 39996",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    26.122334,
+                    44.360893
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39993",
+        "fields": {
+            "title": "auchan",
+            "description": "72 39993",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    26.179733,
+                    44.420421
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39999",
+        "fields": {
+            "title": "auchan",
+            "description": "72 39999",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/b8/10/b810c9b94bd75d022e2fcd06371221a4.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    26.203154,
+                    44.408623
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "37615",
+        "fields": {
+            "title": "carrefour baie-mahault",
+            "description": "37615",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/eb/af/ebaffffff4b84cc61f5ad591fee63235.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -61.58987,
+                    16.253242
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39957",
+        "fields": {
+            "title": "carrefour le",
+            "description": "robert 39957",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/eb/af/ebaffffff4b84cc61f5ad591fee63235.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -60.93848,
+                    14.685585
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "30197",
+        "fields": {
+            "title": "carrefour ducos",
+            "description": "30197",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/eb/af/ebaffffff4b84cc61f5ad591fee63235.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -60.974513,
+                    14.555532
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39915",
+        "fields": {
+            "title": "carrefour fort-de-france",
+            "description": "39915",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/eb/af/ebaffffff4b84cc61f5ad591fee63235.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -61.063385,
+                    14.608834
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39916",
+        "fields": {
+            "title": "carrefour schoelcher",
+            "description": "39916",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/eb/af/ebaffffff4b84cc61f5ad591fee63235.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -61.082536,
+                    14.619216
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "37077",
+        "fields": {
+            "title": "carrefour matoury",
+            "description": "37077",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/eb/af/ebaffffff4b84cc61f5ad591fee63235.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -52.325939,
+                    4.848444
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "38460",
+        "fields": {
+            "title": "leclerc express",
+            "description": "le port 38460",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    55.294629,
+                    -20.932107
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39990",
+        "fields": {
+            "title": "leclerc express",
+            "description": "sainte-marie 39990",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    55.508069,
+                    -20.901841
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39991",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "saint-leu 39991",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    55.301206,
+                    -21.218511
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39989",
+        "fields": {
+            "title": "centre e.leclerc",
+            "description": "saint-joseph 39989",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/29/cc/29cc0628af1de9ec86e69e1fdacacd27.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    55.616274,
+                    -21.379682
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39967",
+        "fields": {
+            "title": "geant casino",
+            "description": "dumbea 39967",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/02/25/0225894d5bcce91c82557b0caf649609.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    166.451259,
+                    -22.203968
+                ]
+            }
+        }
+    },
+    {
+        "model": "zerogachis.ZerogachisSpot",
+        "pk": "39966",
+        "fields": {
+            "title": "geant casino",
+            "description": "noumea 39966",
+            "picture": "https://s3-eu-west-1.amazonaws.com/media-zerogachis/thumbnails/02/25/0225894d5bcce91c82557b0caf649609.png",
+            "partenaire": true,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    166.458879,
+                    -22.275257
+                ]
+            }
+        }
+    }
+]
