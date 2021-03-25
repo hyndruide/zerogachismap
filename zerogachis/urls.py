@@ -14,11 +14,10 @@ Including another URLconf
     2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
 """
 from django.conf import settings
-from django.conf.urls import url
 from django.conf.urls.static import static
 from django.contrib import admin
 from django.views.generic import TemplateView
-
+from django.urls import include, path
 
 from .models import ZerogachisSpot
 from .views import MapPartenaire,MapNonPartenaire
@@ -26,10 +25,10 @@ from .views import MapPartenaire,MapNonPartenaire
 
 
 urlpatterns = [
-    url(r'^admin/', admin.site.urls),
-    url(r'^$', TemplateView.as_view(template_name='index.html'), name='home'),
-    url(r'^part.geojson$', MapPartenaire.as_view(model=ZerogachisSpot, 
+    path(r'^admin/', admin.site.urls),
+    path(r'^$', TemplateView.as_view(template_name='index.html'), name='home'),
+    path(r'^part.geojson$', MapPartenaire.as_view(model=ZerogachisSpot, 
         properties=('title', 'description', 'picture')), name='partenaire'),
-    url(r'^nonpart.geojson$', MapNonPartenaire.as_view(model=ZerogachisSpot,
+    path(r'^nonpart.geojson$', MapNonPartenaire.as_view(model=ZerogachisSpot,
         properties=('title', 'description', 'picture')), name='non_partenaire')
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
