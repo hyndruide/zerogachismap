@@ -7,11 +7,15 @@
 Install
 =======
 clone de Repo
+
 .. code-block:: bash
+
     git clone https://github.com/hyndruide/zerogachismap.git
 
 Create a virtual environement
+
 .. code-block:: bash
+
     cd zerogachismap
     python -m venv .
     // on linux
