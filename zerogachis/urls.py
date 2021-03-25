@@ -25,10 +25,10 @@ from .views import MapPartenaire,MapNonPartenaire
 
 
 urlpatterns = [
-    path(r'^admin/', admin.site.urls),
-    path(r'^$', TemplateView.as_view(template_name='index.html'), name='home'),
-    path(r'^part.geojson$', MapPartenaire.as_view(model=ZerogachisSpot, 
+    path('admin/', admin.site.urls),
+    path('', TemplateView.as_view(template_name='index.html'), name='home'),
+    path('part.geojson', MapPartenaire.as_view(model=ZerogachisSpot, 
         properties=('title', 'description', 'picture')), name='partenaire'),
-    path(r'^nonpart.geojson$', MapNonPartenaire.as_view(model=ZerogachisSpot,
+    path('nonpart.geojson', MapNonPartenaire.as_view(model=ZerogachisSpot,
         properties=('title', 'description', 'picture')), name='non_partenaire')
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
