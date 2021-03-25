@@ -17,11 +17,13 @@ Create a virtual environement
 .. code-block:: bash
 
     cd zerogachismap
-    python -m venv .
-    // on linux
+    python -m venv ./.venv
+
+    # on linux
     source .venv/bin/activate
-    // on windows
-    .\venv\Scripts\Activate.ps1
+
+    # on windows
+    .venv\Scripts\Activate.ps1
 
 Install Django dependencies:
 
